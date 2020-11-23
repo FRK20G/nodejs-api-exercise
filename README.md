@@ -1,4 +1,4 @@
-# Övningar med HTTP requests
+# API övning
 
 ## Instruktioner
 
